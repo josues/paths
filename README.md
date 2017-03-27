@@ -22,6 +22,9 @@ Draw a path from one border of your sheet to another border. Draw another path s
 
 This text was handed to 10 people. All of them were using the same pencil and a square sheet of paper, while following the algorithms rules.
 
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it2_a.jpg)
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it2_b.jpg)
+
 The results emerged more organic and individual. Still they seemed rather flat. 
 
 ### Iteration 3:
@@ -29,6 +32,8 @@ Please read everything first.
 Draw a path from one border of your sheet to another border. Draw other paths, always starting at one point of your most recent path conducting to a border of the sheet. The paths may not cut each other. Change the pencil for every path you draw. Continue as long as possible.
 
 Again this text was handed to 10 people. All of them were using a square peace of very thin paper and extra moist markers in different shades of blue. 
+
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it3.jpg)
 
 The results became a little more organic due to the varying stroke width. The varying colours yet broke the overall pattern. Also the general stroke width overstrained the sheets size, as there was not enough room to get into many details.
 
@@ -42,5 +47,14 @@ Restart the process at least another three times, starting from a border or an e
 The paths may never cut each other. 
 As soon as you are done, shortly hold the paper into the provided water.
 
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.017.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.018.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.019.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.025.jpeg)
+
 The satisfying results especially opened new rooms and spaces when put and alined together.
 The varying intensity of the leaking colour provided the drawings with another layer of random depth and movement.
+
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.026.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.027.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.028.jpeg)
