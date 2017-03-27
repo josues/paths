@@ -12,6 +12,10 @@ The results turned out to be rough and did not fulfil the visual expectations.
 Therefore in the following steps the algorithm has continuously been adjusted to the impressions of natural and organic structures.
 
 ![](https://raw.githubusercontent.com/josues/paths/master/DOKU/inspiration/Endpräsentation.004.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/inspiration/Endpräsentation.007.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/inspiration/Endpräsentation.009.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/DOKU/inspiration/Endpräsentation.012.jpeg)
+
 
 ### Iteration 2:
 Draw a path from one border of your sheet to another border. Draw another path starting at one point of your first path. Again conduct the path to a border of the sheet. Draw another path starting at a point of your newest Path. Conduct the path to a border of the sheet, without cutting one of your previous paths. Continue as long as possible.
