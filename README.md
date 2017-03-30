@@ -1,3 +1,13 @@
+--- 
+authors: 
+  - Joshua Pacheco
+authors-url: 
+  - http://incom.org/profil/7029
+layout: project
+title: Paths: An exploration of analogue algorithms
+type: project
+---
+
 # PATHS
 ## An exploration of analogue algorithms
 
