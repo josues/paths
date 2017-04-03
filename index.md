@@ -21,10 +21,10 @@ Draw a rectangular form that is larger than half of the sheet. Draw another form
 The results turned out to be rough and did not fulfil the visual expectations.
 Therefore in the following steps the algorithm has continuously been adjusted to the impressions of natural and organic structures.
 
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/inspiration/Endpräsentation.004.jpeg)
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/inspiration/Endpräsentation.007.jpeg)
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/inspiration/Endpräsentation.009.jpeg)
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/inspiration/Endpräsentation.012.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/inspiration/Endpräsentation.004.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/inspiration/Endpräsentation.007.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/inspiration/Endpräsentation.009.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/inspiration/Endpräsentation.012.jpeg)
 
 
 ### Iteration 2:
@@ -32,8 +32,8 @@ Draw a path from one border of your sheet to another border. Draw another path s
 
 This text was handed to 10 people. All of them were using the same pencil and a square sheet of paper, while following the algorithms rules.
 
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it2_a.jpg)
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it2_b.jpg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/it2_a.jpg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/it2_b.jpg)
 
 The results emerged more organic and individual. Still they seemed rather flat. 
 
@@ -43,7 +43,7 @@ Draw a path from one border of your sheet to another border. Draw other paths, a
 
 Again this text was handed to 10 people. All of them were using a square peace of very thin paper and extra moist markers in different shades of blue. 
 
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it3.jpg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/it3.jpg)
 
 The results became a little more organic due to the varying stroke width. The varying colours yet broke the overall pattern. Also the general stroke width overstrained the sheets size, as there was not enough room to get into many details.
 
@@ -57,14 +57,14 @@ Restart the process at least another three times, starting from a border or an e
 The paths may never cut each other. 
 As soon as you are done, shortly hold the paper into the provided water.
 
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.017.jpeg)
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.018.jpeg)
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.019.jpeg)
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.025.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/it4/Endpräsentation.017.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/it4/Endpräsentation.018.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/it4/Endpräsentation.019.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/it4/Endpräsentation.025.jpeg)
 
 The satisfying results especially opened new rooms and spaces when put and alined together.
 The varying intensity of the leaking colour provided the drawings with another layer of random depth and movement.
 
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.026.jpeg)
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.027.jpeg)
-![](https://raw.githubusercontent.com/josues/paths/master/DOKU/it4/Endpräsentation.028.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/it4/Endpräsentation.026.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/it4/Endpräsentation.027.jpeg)
+![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/it4/Endpräsentation.028.jpeg)
